@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\bin\Debug\net7.0\Locomotives.Domain.deps.json
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\bin\Debug\net7.0\Locomotives.Domain.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\bin\Debug\net7.0\Locomotives.Domain.pdb
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\refint\Locomotives.Domain.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.pdb
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\ref\Locomotives.Domain.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\bin\Debug\net7.0\Locomotives.Domain.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Domain\obj\Debug\net7.0\Locomotives.Domain.genruntimeconfig.cache

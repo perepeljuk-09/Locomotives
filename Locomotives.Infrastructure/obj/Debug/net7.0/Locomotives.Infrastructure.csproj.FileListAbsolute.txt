@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Infrastructure.deps.json
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Infrastructure.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Domain.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Domain.pdb
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\refint\Locomotives.Infrastructure.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\ref\Locomotives.Infrastructure.dll
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\bin\Debug\net7.0\Locomotives.Infrastructure.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Locomotives\Locomotives.Infrastructure\obj\Debug\net7.0\Locomotives.Infrastructure.genruntimeconfig.cache

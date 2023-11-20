@@ -1,0 +1,29 @@
+.navbar {
+    padding: 6px 12px;
+}
+
+.navbar .navbar__menu {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navbar .navbar__menu .navbar__link {
+    text-decoration: none;
+    cursor: pointer;
+
+    color: forestgreen;
+    font-size: 18px;
+    transition: all .3s ease;
+}
+.navbar .navbar__menu .navbar__link_active {
+    text-decoration: none;
+    cursor: pointer;
+
+    color: orange;
+    font-size: 18px;
+    transition: all .3s ease;
+}
+.navbar .navbar__menu .navbar__link:hover {
+    color: darkred;
+}
